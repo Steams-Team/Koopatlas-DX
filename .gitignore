@@ -1,0 +1,17 @@
+# work in progress, videos, third-party maps
+Next Update/
+# builds
+dist/
+build/
+engine_src/bin/
+engine_src/obj/
+# caches
+.tokenade/
+.pytest_cache/
+__pycache__/
+*.pyc
+# private notes and personal samples
+CUSTOM-CODE-PLAN.md
+samples/SMWsample.kdxmap
+# third-party source, cloned per engine_src/BUILD.md
+engine_src/BfresLibrary/

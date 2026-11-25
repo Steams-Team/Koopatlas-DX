@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <ImplicitUsings>disable</ImplicitUsings><UseAppHost>false</UseAppHost><RollForward>Major</RollForward><AssemblyName>kdx-bfres</AssemblyName>
+    <NoWarn>CS0618;CS0168;CS0219;CS0649;CS0169;CS8632;CS0162;CS0108;CS0114</NoWarn>
+    <RestoreSources></RestoreSources>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="BfresLibrary/BfresLibrary/**/*.cs" Exclude="BfresLibrary/BfresLibrary/obj/**/*.cs;BfresLibrary/BfresLibrary/Properties/**/*.cs" />
+    <Compile Include="Program.cs" />
+    <Reference Include="Syroot.BinaryData"><HintPath>BfresLibrary/Libraries/Syroot.BinaryData.dll</HintPath></Reference>
+    <Reference Include="Syroot.Maths"><HintPath>BfresLibrary/Libraries/Syroot.Maths.dll</HintPath></Reference>
+    <Reference Include="Syroot.NintenTools.NSW.Bntx"><HintPath>BfresLibrary/Libraries/Syroot.NintenTools.NSW.Bntx.dll</HintPath></Reference>
+    <Reference Include="Newtonsoft.Json"><HintPath>BfresLibrary/packages/Newtonsoft.Json.12.0.3/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>

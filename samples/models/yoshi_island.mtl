@@ -1,0 +1,92 @@
+newmtl YIGround
+Kd 0.80 0.80 0.80
+map_Kd yi_ground.png
+
+newmtl YICliff
+Kd 0.80 0.80 0.80
+map_Kd yi_cliff.png
+
+newmtl YIFoam
+Kd 0.80 0.80 0.80
+map_Kd yi_foam.png
+
+newmtl YISea
+Kd 0.80 0.80 0.80
+map_Kd yi_sea.png
+
+newmtl YIWood
+Kd 0.80 0.80 0.80
+map_Kd yi_wood.png
+
+newmtl YIEgg
+Kd 0.80 0.80 0.80
+map_Kd yi_egg.png
+
+newmtl YITrunk
+Kd 0.80 0.80 0.80
+map_Kd yi_trunk.png
+
+newmtl YIFrond
+Kd 0.80 0.80 0.80
+map_Kd yi_frond.png
+
+newmtl YIBush
+Kd 0.80 0.80 0.80
+map_Kd yi_bush.png
+
+newmtl YIStem
+Kd 0.80 0.80 0.80
+map_Kd yi_stem.png
+
+newmtl YIFlower
+Kd 0.80 0.80 0.80
+map_Kd yi_flower.png
+
+newmtl YIPipe
+Kd 0.80 0.80 0.80
+map_Kd yi_pipe.png
+
+newmtl YIBoshiStone
+Kd 0.80 0.80 0.80
+map_Kd yi_boshi_stone.png
+
+newmtl YIBoshiRoof
+Kd 0.80 0.80 0.80
+map_Kd yi_boshi_roof.png
+
+newmtl YIBoshiDome
+Kd 0.80 0.80 0.80
+map_Kd yi_boshi_dome.png
+
+newmtl YIDoor
+Kd 0.80 0.80 0.80
+map_Kd yi_door.png
+
+newmtl YIWartStone
+Kd 0.80 0.80 0.80
+map_Kd yi_wart_stone.png
+
+newmtl YIWartEye
+Kd 0.80 0.80 0.80
+map_Kd yi_wart_eye.png
+
+newmtl YIMouth
+Kd 0.80 0.80 0.80
+map_Kd yi_mouth.png
+
+newmtl YIGold
+Kd 0.80 0.80 0.80
+map_Kd yi_gold.png
+
+newmtl YIRed
+Kd 0.80 0.80 0.80
+map_Kd yi_red.png
+
+newmtl YIMushCap
+Kd 0.80 0.80 0.80
+map_Kd yi_mushcap.png
+
+newmtl YIJar
+Kd 0.80 0.80 0.80
+map_Kd yi_jar.png
+

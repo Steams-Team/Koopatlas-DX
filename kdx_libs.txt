@@ -1,0 +1,2 @@
+# Folders Koopatlas DX may use for optional libraries (FastYZ for fast compression). One per line.
+# Searched by default: a Yaz0loom folder next to the KoopatlasDX folder
